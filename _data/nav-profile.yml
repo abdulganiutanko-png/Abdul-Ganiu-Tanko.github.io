@@ -1,0 +1,21 @@
+image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
+alt_text: "Your profile photo"
+name: Your Name
+description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+
+links:
+  - title: Personal Website
+    url: https://example.com
+    icon: fas fa-globe
+  - title: GitHub
+    url: https://github.com
+    icon: fab fa-github
+  - title: Twitter / X
+    url: https://twitter.com
+    icon: fab fa-twitter
+  - title: Email
+    url: mailto:contact@example.com
+    icon: fas fa-envelope
+
+settings:
+  links_font_weight: normal   # font weight for sidebar links (normal or bold)
