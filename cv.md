@@ -21,25 +21,24 @@ Replace this paragraph with a brief professional statement if you want one at th
 
 ## Education
 
-### Degree, Field
-*Master of Community and Regional Planning (MCRP), Environmental Planning
-University of New Mexico, 2024–2026
+### Master of Community and Regional Planning (MCRP), Environmental Planning
+University of New Mexico, 2023–2026
 
 Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning: Addressing Water Resource Challenges in Underserved Communities
 Advisor: Lani Tsinnajinnie  
 
-### Degree, Field
-*Institution*, Year–Year  
+### Bachelor of Science (BSc), Development Planning
+Kwame Nkrumah University of Science and Technology, 2013–2017  
 
 ---
 
 ## Areas of Interest
-Water resources and watershed management
-GIS and spatial analysis
-Environmental planning
-Climate change and resilience
-Environmental justice
-Indigenous and community-based planning
+- Water resources and watershed management
+- GIS and spatial analysis
+- Environmental planning
+- Climate change and resilience
+- Environmental justice
+- Indigenous and community-based planning
 
 ---
 
@@ -48,20 +47,20 @@ Indigenous and community-based planning
 ### Research Assistant
 University of New Mexico, Albuquerque, NM, 2024–2026
 
-Conducted GIS-based spatial analysis for watershed planning in Indigenous and rural communities
-Developed maps and datasets on water infrastructure, contamination risk, and environmental vulnerability
-Contributed to NSF-funded research on water resources in the Intermountain West  
+- Conducted GIS-based spatial analysis for watershed planning in Indigenous and rural communities
+- Developed maps and datasets on water infrastructure, contamination risk, and environmental vulnerability
+- Contributed to NSF-funded research on water resources in the Intermountain West  
 
-### Position Title
+### Research Assistant
 *University of New Mexico, Albuquerque, NM, 2024–2026
 
-Conducted GIS and spatial analysis to support watershed planning and environmental research
+- Conducted GIS and spatial analysis to support watershed planning and environmental research
 
 ---
 
 ## Conferences & Presentations
-“Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning” — American Planning Association New Mexico Conference, New Mexico (2024)
-“Water Resources and Watershed Planning for Indigenous and Rural Communities in the Intermountain West” — Graduate Poster Showcase, University of New Mexico (2026) 
+- Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning” — American Planning Association New Mexico Conference, New Mexico (2024)
+- Water Resources and Watershed Planning for Indigenous and Rural Communities in the Intermountain West” — Graduate Poster Showcase, University of New Mexico (2026) 
 
 ---
 
@@ -73,9 +72,9 @@ Conducted GIS and spatial analysis to support watershed planning and environment
 ---
 
 ## Awards & Fellowships
--Center for Regional Studies Graduate Fellowship, University of New Mexico, 2025–2026
-ARID Institute Student Interdisciplinary Research Grant, 2025
-Graduate and Professional Student Association (GPSA) Research/Travel Grant, 2025
-Graduate Poster Showcase Award, University of New Mexico, 2026
-Student Poster Competition Winner, American Planning Association New Mexico Chapter, 2024 
+- Center for Regional Studies Graduate Fellowship, University of New Mexico, 2025–2026
+- ARID Institute Student Interdisciplinary Research Grant, 2025
+- Graduate and Professional Student Association (GPSA) Research/Travel Grant, 2025
+- Graduate Poster Showcase Award, University of New Mexico, 2026
+- Student Poster Competition Winner, American Planning Association New Mexico Chapter, 2024 
 
