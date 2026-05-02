@@ -1,10 +1,10 @@
 # ----------------------------------------------------------------------------
 # REQUIRED: Update these fields before publishing your site
 # ----------------------------------------------------------------------------
-title: Your Name              # appears in browser tab and header
-author: Your Name             # your name (used in meta tags)
-description: A short description of your portfolio site.
-url: "https://xanthan-web.github.io"   # your full site URL (no trailing slash)
+title: Abdul Ganiu Tanko              # appears in browser tab and header
+author: Abdul Ganiu Tanko             # your name (used in meta tags)
+description: A professional portfolio showcasing my work in environmental planning, GIS, and water resource management, with a focus on practical, community-based solutions.
+url: "https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/"   # your full site URL (no trailing slash)
 baseurl:
                               # use /repo-name if publishing as a project page
 
