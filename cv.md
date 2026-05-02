@@ -10,22 +10,22 @@ thumbnail-zoom: 1.3
 ---
 
 # Abdul Ganiu Tanko
-Email: Abdulganiutanko@gmail.com • [Your Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240)
+Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240) . Research Gate (https://www.researchgate.net/profile/Abdul-Ganiu-Tanko?ev=hdr_xprf)
 
-Replace this paragraph with a brief professional statement if you want one at the top of your CV — or delete it and start directly with your headings below.
-
-> **WORK FASTER:** You can use an AI assistant to get your CV here in no time. Paste your existing CV into an AI assistant and ask it to reformat to Markdown following the format of your CV page---and give it the URL of your CV page. It handles the tedious formatting work in seconds.
-
+Environmental planner specializing in water resources, GIS, and community-based watershed planning, with a focus on advancing equitable and practical solutions for Indigenous and underserved communities.
 
 ---
 
 ## Education
 
-### Master of Community and Regional Planning (MCRP), Environmental Planning
+### Master of Community and Regional Planning (MCRP)
+Environmental Planning
 University of New Mexico, 2023–2026
 
 Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning: Addressing Water Resource Challenges in Underserved Communities
-Advisor: Lani Tsinnajinnie  
+
+#### Advisor: 
+Prof. Lani Tsinnajinnie  
 
 ### Bachelor of Science (BSc), Development Planning
 Kwame Nkrumah University of Science and Technology, 2013–2017  
