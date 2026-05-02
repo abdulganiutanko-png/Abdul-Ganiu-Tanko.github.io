@@ -4,13 +4,7 @@
 
 Abdul Ganiu Tanko is an environmental planner focused on water resources, watershed management, and spatial analysis. His work integrates GIS and community-based approaches to address environmental challenges in Indigenous and underserved communities. He brings a cross-regional perspective, drawing on experience in both the United States and Ghana to advance practical, equity-driven planning solutions.: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
 
-{% include images/figure-wrap.html
-  image-path="/assets/images/Profile/Abdul Ganiu Tanko.jpg"
-  caption="Bio"
-  alt-text="picture."
-  image-position="left"
-  image-width="100%"
-  text="personal."%}
+
 
 ---{% include images/figure.html  image-path="assets/images/your-image.jpg"  class="center"  width="60%"  caption="A brief description of what's shown."  alt-text="Describe the image for screen readers"%}
 
@@ -19,7 +13,7 @@ The cards below are generated automatically from your other pages. Each page tha
 ```yaml
 homepage: TRUE
 summary: This website presents my work in environmental planning, with a focus on water resources, GIS, and community-based watershed solutions. It highlights my research, projects, and applied work aimed at supporting equitable and sustainable planning.
-thumbnail: A visit to the Lake
+thumbnail: assets/images/Abdul Ganiu Tanko.JPG
 position: 1   # controls the order cards appear (lower numbers first)
 ```
 
