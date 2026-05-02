@@ -1,10 +1,10 @@
 ---
-title: Creative Work
+title: Applied Work
 layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 3
-summary: Replace this with a sentence describing this page — what kind of creative work do you make or curate? This appears on the homepage card.
+summary: This page highlights visual and applied work, including maps, spatial analyses, and planning outputs that translate data into practical, real-world insights.
 thumbnail: assets/images/ai-created-kinetic-sculpture.png
 ---
 
