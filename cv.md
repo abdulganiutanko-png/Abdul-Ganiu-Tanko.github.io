@@ -15,9 +15,7 @@ Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.gi
 Environmental planner specializing in water resources, GIS, and community-based watershed planning, with a focus on advancing equitable and practical solutions for Indigenous and underserved communities.
 
 ---
-
 ## Education
-
 ### Master of Community and Regional Planning (MCRP)
 Environmental Planning
 University of New Mexico, 2023–2026
@@ -42,19 +40,16 @@ Kwame Nkrumah University of Science and Technology, 2013–2017
 ---
 
 ## Professional Experience
-
 ### Research Assistant
 University of New Mexico, Albuquerque, NM, 2024–2026
 
 - Conducted GIS-based spatial analysis for watershed planning in Indigenous and rural communities
 - Developed maps and datasets on water infrastructure, contamination risk, and environmental vulnerability
 - Contributed to NSF-funded research on water resources in the Intermountain West  
-
 ### Research Assistant
 *University of New Mexico, Albuquerque, NM, 2024–2026
 
 - Conducted GIS and spatial analysis to support watershed planning and environmental research
-
 ---
 
 ## Conferences & Presentations
@@ -69,7 +64,6 @@ University of New Mexico, Albuquerque, NM, 2024–2026
 - Appiah, Seth Christopher Yaw, Francis Adjei Osei, Nicholas Karikari Mensah, Patrick Lebene Adonoo, Abdul Ganiu Tanko, and Phans Oduro Sarpong. “Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.” Health (2019). https://doi.org/10.4236/health.2019.118082
 
 ---
-
 ## Awards & Fellowships
 - Center for Regional Studies Graduate Fellowship, University of New Mexico, 2025–2026
 - ARID Institute Student Interdisciplinary Research Grant, 2025
