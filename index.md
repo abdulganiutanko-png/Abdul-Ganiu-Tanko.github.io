@@ -9,7 +9,7 @@ The cards below are generated automatically from your other pages. Each page tha
 
 ```yaml
 homepage: TRUE
-summary: A sentence or two describing this page — appears on the card.
+summary: This website presents my work in environmental planning, with a focus on water resources, GIS, and community-based watershed solutions. It highlights my research, projects, and applied work aimed at supporting equitable and sustainable planning.
 thumbnail: A visit to the Lake
 position: 1   # controls the order cards appear (lower numbers first)
 ```
