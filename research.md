@@ -1,5 +1,5 @@
 ---
-title: My Research
+title: Research
 layout: base
 date: 2025-09-30
 homepage: TRUE
@@ -30,10 +30,10 @@ I have also contributed to research on water resources in the Intermountain West
 
 ## Publications 
 
-#### Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
+Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
 
-#### Infrastructure And Inclusive Growth: Examining Road Development And Rural Transformation In Emerging Economies. DOI: https://doi.org/10.36713/epra24127
+Infrastructure And Inclusive Growth: Examining Road Development And Rural Transformation In Emerging Economies. DOI: https://doi.org/10.36713/epra24127
 
-#### Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.https://doi.org/10.4236/health.2019.118082
+Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.https://doi.org/10.4236/health.2019.118082
 
 
