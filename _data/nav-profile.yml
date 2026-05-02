@@ -1,11 +1,11 @@
 image_url: /assets/images/profile/eduardo-goody-MQ-Rkg64jf4-unsplash.jpg
 alt_text: "Your profile photo"
-name: Your Name
-description: Replace this with a short bio — one or two sentences describing who you are and what you do. This appears under your photo in the sidebar.
+name: Abdul Ganiu Tanko
+description: Abdul Ganiu Tanko is an environmental planner specializing in water resources, GIS, and community-based watershed planning. His work focuses on advancing equitable and practical solutions for Indigenous and underserved communities
 
 links:
   - title: Personal Website
-    url: https://example.com
+    url: https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/
     icon: fas fa-globe
   - title: GitHub
     url: https://github.com
@@ -14,7 +14,7 @@ links:
     url: https://twitter.com
     icon: fab fa-twitter
   - title: Email
-    url: mailto:contact@example.com
+    url: abdulganiutanko@gmail.com
     icon: fas fa-envelope
 
 settings:
