@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 3
 summary: This page highlights visual and applied work, including maps, spatial analyses, and planning outputs that translate data into practical, real-world insights.
-thumbnail: assets/images/ai-created-kinetic-sculpture.png
+thumbnail: assets/images/Group.jpeg
 ---
 
 This page is a placeholder for a fourth content area — it's called "Creative Work" here, but it's yours to rename and repurpose. Common uses: a portfolio of creative or artistic projects, a public writing page, a digital projects showcase, a section for journalism or multimedia work.
