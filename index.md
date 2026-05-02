@@ -1,11 +1,9 @@
-Abdul Ganiu Tanko
-title: 
+---
+title: ABDUL GANIU TANKO (MGIP)
+ 
+# ABDUL GANIU TANKO (MGIP)
 
 
-
-
-
-# Abdul Ganiu Tanko (MGIP)
 
 Abdul Ganiu Tanko is an environmental planner focused on water resources, watershed management, and spatial analysis. His work integrates GIS and community-based approaches to address environmental challenges in Indigenous and underserved communities. He brings a cross-regional perspective, drawing on experience in both the United States and Ghana to advance practical, equity-driven planning solutions.: your field, your focus, and what makes your work distinctive. Keep it short; the cards below link to your other pages where you can go into depth.
 
@@ -16,7 +14,7 @@ The cards below are generated automatically from your other pages. Each page tha
 ```yaml
 homepage: TRUE
 summary: A sentence or two describing this page — appears on the card.
-thumbnail: assets/images/your-image.jpg
+thumbnail: A visit to the Laje
 position: 1   # controls the order cards appear (lower numbers first)
 ```
 
