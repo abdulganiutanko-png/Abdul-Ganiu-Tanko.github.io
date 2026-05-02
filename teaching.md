@@ -5,7 +5,7 @@ date: 2025-09-30
 homepage: TRUE
 position: 2
 summary: My teaching focuses on making complex planning concepts practical and accessible, with an emphasis on real-world application. I aim to equip students with the tools and critical thinking skills needed to address environmental and community challenges.
-thumbnail: assets/images/great-lecture.jpg
+thumbnail: assets/images/IMG_1627.JPEG
 ---
 
 ## Teaching Philosophy
