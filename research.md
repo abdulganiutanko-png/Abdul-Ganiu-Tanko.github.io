@@ -16,22 +16,25 @@ The `summary` and `thumbnail` fields in the front matter at the top of this file
 
 ## Research Interests
 
-Write two or three paragraphs describing your research questions, methods, and fields. You don't need to cover everything — aim for something a curious non-specialist can follow. What problem are you working on? Why does it matter? What approaches do you bring to it?
+My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana
 
 ---
 
 ## Current Projects
 
-### Project Name
+### Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning:
 
-A short description of what you're working on right now. Include a link if the project has a public presence. If you have an image — a map, a dataset visualization, a photo from fieldwork — add it here using the `figure` or `figure-wrap` component.
+I am currently working on a project that uses GIS and spatial analysis to map the relationship between extraction activities and water systems in Indigenous communities in New Mexico. The goal is to identify areas facing overlapping risks—such as contamination, drought vulnerability, and limited water infrastructure—and to develop practical mapping tools that support community-based watershed planning. This work builds toward a spatial guidance framework and a set of maps that can be used by local leadership to inform planning decisions. A public version of the project will be shared soon.
 
-### Project Name
+###  Water Resources and Watershed Planning for Indigenous and Rural Communities in the Intermountain West
 
-Another current project. Or delete this section if you have just one.
+
+I am also developing a community-focused watershed planning guidance document designed as a practical, “living” resource for communities and practitioners. The project translates GIS workflows, data sources, and planning strategies into clear, step-by-step guidance that can be adapted to different local contexts.The aim is to make spatial analysis more accessible and actionable—bridging the gap between technical tools and everyday planning decisions, particularly in resource-constrained and underserved communities.
 
 ---
 
 ## Past Projects
 
-Completed work you want to highlight. Thesis, dissertations, grants, exhibits — whatever best represents your scholarly record.
+My completed work focuses on developing spatial analysis tools to support community-based watershed planning in underserved and Indigenous communities. This includes a capstone project that maps contamination risks, water infrastructure gaps, and drought vulnerability in New Mexico, producing practical outputs such as maps, datasets, and a planning guidance framework.
+
+I have also contributed to research on water resources in the Intermountain West through NSF-supported projects, and my work has been recognized through academic awards, conference presentations, and research grants
