@@ -4,14 +4,8 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 2
-summary: Replace this with a sentence or two about your teaching — your approach, the courses you teach, or what you most want students to take away. This appears on the homepage card.
+summary: My teaching focuses on making complex planning concepts practical and accessible, with an emphasis on real-world application. I aim to equip students with the tools and critical thinking skills needed to address environmental and community challenges.
 thumbnail: assets/images/great-lecture.jpg
----
-
-This is your Teaching page. Replace everything below this line with your own content.
-
-Teaching pages work well for a teaching philosophy statement, a list of courses you've taught, sample syllabi or assignments, and anything that shows how you work in the classroom. Add an image with `figure` or `figure-wrap` to make the page more visual — it's good practice for learning the components, and it makes the page more interesting to read.
-
 ---
 
 ## Teaching Philosophy
