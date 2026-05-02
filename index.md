@@ -7,6 +7,4 @@ Abdul Ganiu Tanko is an environmental planner focused on water resources, waters
 {% include images/figure.html  class="left"  width="25%"  caption="What a nice view"  alt-text="Kayaking Day"  image-path="/assets/images/Abdul Ganiu Tanko.JPG"%}
 
 
----{% include images/figure.html  image-path="assets/images/your-image.jpg"  class="center"  width="60%"  caption="Kayaking."  alt-text="Describe the image for screen readers"%}
-
-
+---{% include images/figure.html  image-path="assets/images/your-image.jpg"  class="center"  width="60%"  caption="Kayaking.""%}
