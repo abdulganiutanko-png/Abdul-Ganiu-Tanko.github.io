@@ -19,7 +19,6 @@ Environmental planner specializing in water resources, GIS, and community-based 
 ### Master of Community and Regional Planning (MCRP)
 Environmental Planning
 University of New Mexico, 2023–2026
-
 Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning: Addressing Water Resource Challenges in Underserved Communities
 #### Advisor: 
 Prof. Lani Tsinnajinnie  
