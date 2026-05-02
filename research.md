@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: Research on water resources, GIS, and watershed planning, focused on advancing equitable and community-based solutions in Indigenous and underserved communities.
+summary: Research on water resources and watershed planning, focused on advancing equitable and community-based solutions in Indigenous and underserved communities.
 thumbnail: assets/images/IMG_5985.jpeg
 
 ---
