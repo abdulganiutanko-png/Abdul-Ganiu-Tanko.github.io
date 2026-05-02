@@ -1,18 +1,12 @@
 ---
-title: Research
+title: My Research
 layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
 summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
----
 
-This is your Research page. Replace everything below this line with your own content. A research page typically includes an overview of your scholarly interests, descriptions of current and past projects, and any relevant links or media.
-
-The `summary` and `thumbnail` fields in the front matter at the top of this file (between the `---` lines) control the card on your homepage. Update both when you update the page.
-
----
 
 ## Research Interests
 
@@ -31,10 +25,16 @@ I am currently working on a project that uses GIS and spatial analysis to map th
 
 I am also developing a community-focused watershed planning guidance document designed as a practical, “living” resource for communities and practitioners. The project translates GIS workflows, data sources, and planning strategies into clear, step-by-step guidance that can be adapted to different local contexts.The aim is to make spatial analysis more accessible and actionable—bridging the gap between technical tools and everyday planning decisions, particularly in resource-constrained and underserved communities.
 
----
 
 ## Past Projects
 
 My completed work focuses on developing spatial analysis tools to support community-based watershed planning in underserved and Indigenous communities. This includes a capstone project that maps contamination risks, water infrastructure gaps, and drought vulnerability in New Mexico, producing practical outputs such as maps, datasets, and a planning guidance framework.
 
 I have also contributed to research on water resources in the Intermountain West through NSF-supported projects, and my work has been recognized through academic awards, conference presentations, and research grants
+
+# Publications 
+Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
+
+INFRASTRUCTURE AND INCLUSIVE GROWTH: EXAMINING ROAD DEVELOPMENT AND RURAL TRANSFORMATION IN EMERGING ECONOMIES. DOI: https://doi.org/10.36713/epra24127
+
+Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.https://doi.org/10.4236/health.2019.118082
