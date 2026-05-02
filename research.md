@@ -12,7 +12,6 @@ thumbnail: assets/images/IMG_5985.jpeg
 My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana
 
 ## Current Projects
-
 ### Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning:
 
 I am currently working on a project that uses GIS and spatial analysis to map the relationship between extraction activities and water systems in Indigenous communities in New Mexico. The goal is to identify areas facing overlapping risks—such as contamination, drought vulnerability, and limited water infrastructure—and to develop practical mapping tools that support community-based watershed planning. This work builds toward a spatial guidance framework and a set of maps that can be used by local leadership to inform planning decisions. A public version of the project will be shared soon.
