@@ -7,12 +7,9 @@ position: 1
 summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 
-
-## Research Interests
-
-My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana.
-
 ---
+## Research Interest
+My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana
 
 ## Current Projects
 
@@ -21,7 +18,6 @@ My work focuses on how communities—especially Indigenous and underserved commu
 I am currently working on a project that uses GIS and spatial analysis to map the relationship between extraction activities and water systems in Indigenous communities in New Mexico. The goal is to identify areas facing overlapping risks—such as contamination, drought vulnerability, and limited water infrastructure—and to develop practical mapping tools that support community-based watershed planning. This work builds toward a spatial guidance framework and a set of maps that can be used by local leadership to inform planning decisions. A public version of the project will be shared soon.
 
 ###  Water Resources and Watershed Planning for Indigenous and Rural Communities in the Intermountain West
-
 
 I am also developing a community-focused watershed planning guidance document designed as a practical, “living” resource for communities and practitioners. The project translates GIS workflows, data sources, and planning strategies into clear, step-by-step guidance that can be adapted to different local contexts.The aim is to make spatial analysis more accessible and actionable—bridging the gap between technical tools and everyday planning decisions, particularly in resource-constrained and underserved communities.
 
@@ -32,10 +28,12 @@ My completed work focuses on developing spatial analysis tools to support commun
 
 I have also contributed to research on water resources in the Intermountain West through NSF-supported projects, and my work has been recognized through academic awards, conference presentations, and research grants
 
-# Publications 
+## Publications 
 
-Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
+### Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
 
-INFRASTRUCTURE AND INCLUSIVE GROWTH: EXAMINING ROAD DEVELOPMENT AND RURAL TRANSFORMATION IN EMERGING ECONOMIES. DOI: https://doi.org/10.36713/epra24127
+### INFRASTRUCTURE AND INCLUSIVE GROWTH: EXAMINING ROAD DEVELOPMENT AND RURAL TRANSFORMATION IN EMERGING ECONOMIES. DOI: https://doi.org/10.36713/epra24127
 
-Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.https://doi.org/10.4236/health.2019.118082
+### Males as Partners in Family Planning Service Uptake in Ghana: A Descriptive Cross-Sectional Survey.https://doi.org/10.4236/health.2019.118082
+
+
