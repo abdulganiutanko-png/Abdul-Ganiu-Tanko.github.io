@@ -6,7 +6,7 @@ position: 4
 summary: A record of professional experience, research, and leadership in environmental planning, highlighting work in water resources, GIS, and community-based watershed planning
 thumbnail: assets/images/CV.png
 thumbnail-position: top
-thumbnail-zoom: 1.3
+thumbnail-zoom: 1.5
 ---
 
 # Abdul Ganiu Tanko
@@ -47,9 +47,10 @@ University of New Mexico, Albuquerque, NM, 2024–2026
 - Developed maps and datasets on water infrastructure, contamination risk, and environmental vulnerability
 - Contributed to NSF-funded research on water resources in the Intermountain West  
 ### Research Assistant
-*University of New Mexico, Albuquerque, NM, 2024–2026
+University of New Mexico, Albuquerque, NM, 2024–2026
 
 - Conducted GIS and spatial analysis to support watershed planning and environmental research
+
 ---
 
 ## Conferences & Presentations
