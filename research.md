@@ -10,7 +10,7 @@ thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 
 ## Research Interests
 
-My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana
+My work focuses on how communities—especially Indigenous and underserved communities—can better manage water resources under pressures such as climate change, drought, and extraction activities. I examine where risks are concentrated, who is most affected, and how planning tools can support more equitable and sustainable decisions.I use GIS and spatial analysis to map water access, contamination risk, and infrastructure gaps, combined with policy and community-based approaches. My work bridges technical analysis and real-world application, developing practical tools and insights that support informed, equity-driven planning across different contexts, including the United States and Ghana.
 
 ---
 
@@ -33,6 +33,7 @@ My completed work focuses on developing spatial analysis tools to support commun
 I have also contributed to research on water resources in the Intermountain West through NSF-supported projects, and my work has been recognized through academic awards, conference presentations, and research grants
 
 # Publications 
+
 Who Benefits from the Transition? Environmental Justice and the Politics of Climate Governance in New Mexico, United States. DOI: https://doi.org/10.1177/19394071261444922
 
 INFRASTRUCTURE AND INCLUSIVE GROWTH: EXAMINING ROAD DEVELOPMENT AND RURAL TRANSFORMATION IN EMERGING ECONOMIES. DOI: https://doi.org/10.36713/epra24127
