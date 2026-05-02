@@ -10,8 +10,7 @@ thumbnail-zoom: 1.3
 ---
 
 # Abdul Ganiu Tanko
-Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240) . Research Gate (https://www.researchgate.net/profile/Abdul-Ganiu-Tanko?ev=hdr_xprf)
-
+Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240)
 
 Environmental planner specializing in water resources, GIS, and community-based watershed planning, with a focus on advancing equitable and practical solutions for Indigenous and underserved communities.
 
@@ -24,7 +23,6 @@ Environmental Planning
 University of New Mexico, 2023–2026
 
 Developing Spatial Analysis Guidance to Support Community-Based Watershed Planning: Addressing Water Resource Challenges in Underserved Communities
-
 #### Advisor: 
 Prof. Lani Tsinnajinnie  
 
