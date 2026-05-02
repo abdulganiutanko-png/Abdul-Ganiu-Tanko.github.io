@@ -4,7 +4,7 @@ layout: base
 date: 2025-09-30
 homepage: TRUE
 position: 1
-summary: Replace this with a one- or two-sentence summary of your research. This text appears on the homepage card and in search results.
+summary: Research on water resources, GIS, and watershed planning, focused on advancing equitable and community-based solutions in Indigenous and underserved communities.
 thumbnail: assets/images/Cleve-van_construction-tower-babel.jpg
 
 ---
