@@ -4,7 +4,7 @@ layout: base
 homepage: TRUE
 position: 4
 summary: A record of professional experience, research, and leadership in environmental planning, highlighting work in water resources, GIS, and community-based watershed planning
-thumbnail: assets/images/Augustine_Lateran.jpg
+thumbnail: assets/images/CV.png
 thumbnail-position: top
 thumbnail-zoom: 1.3
 ---
