@@ -1,7 +1,8 @@
-  
-
-  
-
+---
+title: Abdul Ganiu Tanko
+layout: nav-left
+date: 2026-05-26
+---
 
 # ABDUL GANIU TANKO (MGIP)
 
