@@ -10,7 +10,7 @@ thumbnail-zoom: 1.1
 ---
 
 # Abdul Ganiu Tanko
-Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240)
+Email: Abdulganiutanko@gmail.com • [My Website](https://abdulganiutanko-png.github.io/Abdul-Ganiu-Tanko.github.io/) • [LinkedIn](https://www.linkedin.com/in/abdul-ganiu-tanko-mgip-451988240)
 
 Environmental planner specializing in water resources, GIS, and community-based watershed planning, with a focus on advancing equitable and practical solutions for Indigenous and underserved communities.
 
