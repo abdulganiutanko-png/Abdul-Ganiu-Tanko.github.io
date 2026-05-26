@@ -1,6 +1,6 @@
 ---
 title: Abdul Ganiu Tanko
-layout: nav-left
+layout: nav-profile
 date: 2026-05-26
 ---
 
