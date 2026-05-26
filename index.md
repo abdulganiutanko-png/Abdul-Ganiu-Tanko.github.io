@@ -18,4 +18,4 @@ Abdul Ganiu Tanko is an environmental planner focused on water resources, waters
 ## Page Summary
 
 {% assign essays = site.pages | where: "homepage", true %}
-{% include nav/card-stack.html cards = essays %}
+{% include nav/card-grid.html cards = essays %}
