@@ -9,7 +9,7 @@ thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
   image-path="/assets/images/beach hands.jpeg"
-  height="50vh"
+  height="20vh"
   box-align="left"
   title="Lifestyle"
   text="What makes you happy doesn’t need to make sense to anyone else"
