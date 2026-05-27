@@ -8,11 +8,9 @@ summary: This page highlights visual and applied work, including maps, spatial a
 thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/grad1.jpeg"
-  height="50vh"
-  box-align="left"
-  title="Lifestyle"
-  text="What makes you happy doesn’t need to make sense to anyone else"
+  image-path="/assets/images/backgrounds/grad2.jpeg"
+  height="40vh"
+  background-position="center 60%"
 %}
 ---
 To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
