@@ -20,7 +20,6 @@ To rename this page, change the `title` field in the front matter above and upda
 ---
 
 ## Memories That Matter
-
 {% assign images =
 "/scrollstories/forest/images/beach hands.jpeg,
 /scrollstories/forest/images/beach group.jpeg,
