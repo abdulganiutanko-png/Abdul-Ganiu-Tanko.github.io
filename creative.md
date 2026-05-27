@@ -10,7 +10,7 @@ thumbnail: assets/images/Group.jpeg
 {% include images/jumbotron.html
   image-path="/assets/images/grad2.jpeg"
   height="40vh"
-  background-position="center 30%"
+  background-position="center 25%"
 %}
 ---
 To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
