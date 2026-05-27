@@ -8,7 +8,7 @@ summary: This page highlights visual and applied work, including maps, spatial a
 thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/beach hands.jpeg"
+  image-path="/assets/images/grad1.jpeg"
   height="20vh"
   box-align="left"
   title="Lifestyle"
@@ -19,13 +19,13 @@ To rename this page, change the `title` field in the front matter above and upda
 
 ---
 
-## Your Section Title
+## Memories That Matter
 
 {% include images/figure.html
   class="left"
   width="45%"
-  caption="Add an image that represents this work. Delete this component if you don't need it."
-  image-path="/assets/images/ai-created-kinetic-sculpture.png"
+  caption="Somewhere between peace and purpose."
+  image-path="/assets/images/beach hands.jpeg"
 %}
 
 Write a paragraph or two introducing what this page is about. This is a good page to experiment with Xanthan's image components — `figure` (standalone, left/right/center) and `figure-wrap` (text wraps around the image) both work well for portfolio-style pages with lots of visual content.
