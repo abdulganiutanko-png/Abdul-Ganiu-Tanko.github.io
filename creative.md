@@ -8,7 +8,7 @@ summary: This page highlights visual and applied work, including maps, spatial a
 thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/beach hands.jpeg"
+  image-path="/assets/images/beach hands.jpeg"
   height="50vh"
   box-align="left"
   title="Lifestyle"
