@@ -8,7 +8,7 @@ summary: This page highlights visual and applied work, including maps, spatial a
 thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
-  image-path="/assets/images/backgrounds/grad2.jpeg"
+  image-path="/assets/images/grad2.jpeg"
   height="40vh"
   background-position="center 60%"
 %}
