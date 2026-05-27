@@ -9,7 +9,7 @@ thumbnail: assets/images/Group.jpeg
 ---
 {% include images/jumbotron.html
   image-path="/assets/images/grad2.jpeg"
-  height="40vh"
+  height="60vh"
   background-position="center 25%"
 %}
 ---
