@@ -21,11 +21,29 @@ To rename this page, change the `title` field in the front matter above and upda
 
 ## Memories That Matter
 
-{% include images/figure.html
-  class="left"
-  width="30%"
-  caption="Somewhere between peace and purpose."
-  image-path="/assets/images/beach hands.jpeg"
+{% assign images =
+"/scrollstories/forest/images/beach hands.jpeg,
+/scrollstories/forest/images/beach group.jpeg,
+/scrollstories/forest/images/whiteshirts.JPG" | split: ','
+%}
+
+{% assign headers =
+"A Photo Title,,
+No caption here" | split: ','
+%}
+
+{% assign captions =
+"It's useful to have informative captions|
+This image has a caption, but no title|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+  width="80%"
+  class="center"
+  images=images
+  headers=headers
+  captions=captions
 %}
 
 Write a paragraph or two introducing what this page is about. This is a good page to experiment with Xanthan's image components — `figure` (standalone, left/right/center) and `figure-wrap` (text wraps around the image) both work well for portfolio-style pages with lots of visual content.
