@@ -23,7 +23,7 @@ To rename this page, change the `title` field in the front matter above and upda
 
 {% include images/figure.html
   class="left"
-  width="45%"
+  width="30%"
   caption="Somewhere between peace and purpose."
   image-path="/assets/images/beach hands.jpeg"
 %}
