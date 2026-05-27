@@ -7,9 +7,14 @@ position: 3
 summary: This page highlights visual and applied work, including maps, spatial analyses, and planning outputs that translate data into practical, real-world insights.
 thumbnail: assets/images/Group.jpeg
 ---
-
-This page is a placeholder for a fourth content area — it's called "Creative Work" here, but it's yours to rename and repurpose. Common uses: a portfolio of creative or artistic projects, a public writing page, a digital projects showcase, a section for journalism or multimedia work.
-
+{% include images/jumbotron.html
+  image-path="/assets/images/backgrounds/beach hands.jpeg"
+  height="50vh"
+  box-align="left"
+  title="Lifestyle"
+  text="What makes you happy doesn’t need to make sense to anyone else"
+%}
+---
 To rename this page, change the `title` field in the front matter above and update the corresponding entry in `_data/nav-top.yml`.
 
 ---
